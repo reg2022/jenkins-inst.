@@ -3,7 +3,7 @@
 ## Author: Regine
 ## Date October 24th 2022
 
-echo "starting Jenkins installation this will take a few minutes.
+echo "starting Jenkins installation this will take a few minutes."
 
 yum install wget -y
 yum install net-tools -y
